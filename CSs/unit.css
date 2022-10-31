@@ -1,0 +1,106 @@
+#fondoinicio{
+    background-color: lightgreen;
+    
+}
+#fondocontacto{
+    background-color: lightseagreen;
+}
+#fondosomos{
+    background: lightcoral;
+}
+header {
+    background: rgba(231, 157, 9, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+  nav{
+    float: left;
+  }
+  nav ul{
+    list-style: none;
+    overflow: hidden;
+  }
+  nav ul li {
+    float: left;
+    font-size: 15px;
+  }
+  nav ul li a {
+    display: block; 
+    padding: 5px;
+    color: rgb(2, 0, 0);
+    text-decoration: none;
+  }
+ 
+  #ini a:hover{
+    background: lightgreen;
+  }
+  #quien a:hover{
+    background: lightcoral;
+  }
+  #con a:hover{
+    background: lightseagreen;
+  }
+  #tex{
+   
+    line-height: 300%;
+  }
+  #t1{
+    text-decoration: underline;
+    color: #008000;
+  }
+  #t2{
+    color: red;
+  }
+  #t3{
+    text-decoration: underline overline;
+  }
+  #t4{
+    font-size: xx-large;
+    font-weight: 900
+  }
+  #t5{
+    font-weight: 600;
+    font-size: large;
+    color: blue;
+  }
+  #t6{
+    font-weight: 600;
+    font-size: large;
+    text-decoration: underline;
+    color: red;
+  }
+  #fra1{
+    text-align: left;
+  }
+  #fra11{
+    text-align: justify;
+  }
+  #fra2{
+    text-align: right;
+  }
+  #fra21{
+    text-align: justify;
+  }
+  #fra12{
+    text-align: center;
+  }
+  #fra22{
+    text-align: center;
+  }
+  #imm1{
+    float: left;
+  }
+  #imm2{
+    float: right;
+  }
+  table{
+    background: yellow;
+    border: 3px dotted rgb(0, 0, 0);
+    border-bottom: 3px dotted rgb(172, 6, 6);
+  }
+  #titab{
+    color: red;
+    text-align: center;
+
+  }
